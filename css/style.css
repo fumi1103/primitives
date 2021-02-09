@@ -40,7 +40,7 @@ header {
     margin-right:45px;
 }
 
-/* SLIDER */
+/* SLIDER 
 .slider {
     height:auto;
     
@@ -59,8 +59,25 @@ header {
     position: relative;
     bottom:354px;
 }
+*/
+.main-pic {
+    height:auto;
+    
+} 
 
+.slide-show {
+    width:1051px;
+    margin:0 auto;
+}
 
+.slick-dots {
+    bottom:-40px;
+}
+
+.logo{
+    position: relative;
+    bottom:354px;
+}
 /* MAIN */
 main {
     height:800px;
