@@ -40,7 +40,7 @@ header {
     margin-right:45px;
 }
 
-/* SLIDER 
+/* SLIDER */
 .slider {
     height:auto;
     
@@ -60,28 +60,6 @@ header {
     margin-left: 350px;
     bottom:354px;
 }
-*/
-
-.slider {
-    height:auto;
-    
-} 
-
-.main-pic {
-    width:1051px;
-    margin:0 auto;
-}
-
-.slick-dots {
-    bottom:-40px;
-}
-
-.logo{
-    position: relative;
-    margin-left: 350px;
-    bottom:354px;
-}
-
 
 /* MAIN */
 main {
