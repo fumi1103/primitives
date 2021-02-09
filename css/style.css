@@ -42,9 +42,9 @@ header {
 
 /* SLIDER */
 .slider {
-    height:780px;
+    height:auto;
     
-}
+} 
 
 .slide-show {
     width:1051px;
